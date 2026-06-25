@@ -90,6 +90,14 @@ The system is designed for scalability and production use.
 
 ---
 
+## Example Asset URLs
+
+https://assets.thesushant.in/image/example.webp?w=600&q=80
+
+https://assets.thesushant.in/image/example.avif?w=1200
+
+https://assets.thesushant.in/image/example.jpg
+
 ## System Architecture
 
 ```text
